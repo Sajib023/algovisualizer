@@ -1,0 +1,5 @@
+{
+  "name": "AlgoVisualizer",
+  "description": "Transforms complex coding problem statements into clear, interactive logic flowcharts and complexity breakdowns using Gemini 2.5.",
+  "requestFramePermissions": []
+}
